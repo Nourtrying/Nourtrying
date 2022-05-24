@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nourtrying
 - 👀 I’m interested in programming, web development and design.
-- 🌱 I’m currently learning C programming.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML/CSS and Javascript.
 - 📫 How to reach me: via my email: nbenmoulehom@gmail.com
 
 <!---
